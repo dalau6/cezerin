@@ -69,17 +69,21 @@
   "home_slider": [
     {
       "path": "/page-1",
-      "image": "slide8.jpg",
+      "image": "slide1.jpg",
       "description": "Buildin a Healthy Future",
       "title": "NimblShop"
     },
     {
       "path": "/page-2",
-      "image": "slide9.jpg"
+      "image": "slide2.jpg"
     },
     {
-      "image": "slide7.jpg",
+      "image": "slide3.jpg",
       "path": "/page-3"
+    },
+    {
+      "image": "slide4.jpg",
+      "path": "/page-4"
     }
   ],
   "home_slider_color": "#ffffff",
